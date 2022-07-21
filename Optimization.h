@@ -5,6 +5,7 @@
 #include <random>
 #include <set>
 #include <memory>
+#include <ctime>
 
 using para_format = std::tuple<double, double, double, int>;//SA参数格式
 
