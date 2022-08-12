@@ -1,8 +1,8 @@
 # SA and HCS Optimization Project
 
-一个使用模拟退火算法和登山算法解决流水车间调度问题的最优化实验.
+一个使用模拟退火算法和登山算法解决流水车间调度问题的最优化实验。
 
-基于`C++ 17`标准库
+基于`C++ 17`标准库。
 
 ![](https://img.shields.io/badge/author-Gaozih-%2366ccff)
 ![](https://img.shields.io/github/license/Gzh0821/Optimization_project)
