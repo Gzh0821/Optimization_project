@@ -5,9 +5,8 @@
 基于`C++ 17`标准库。
 
 ![](https://img.shields.io/badge/author-Gaozih-%2366ccff)
-![](https://img.shields.io/github/license/Gzh0821/Optimization_project)
 ![](https://img.shields.io/github/stars/Gzh0821/Optimization_project)
-
+![](https://img.shields.io/github/license/Gzh0821/Optimization_project)
 
 ## 简介
 - 本项目来源于最优化方法课程的大作业。
