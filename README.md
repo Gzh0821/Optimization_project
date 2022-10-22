@@ -42,7 +42,7 @@
 
 #### 下载gnu编译器套件
 - **若您已部署`gcc`，`g++`（GNU编译器套件）或`windows`平台的`mingw-gcc`组件，可跳过本步骤**
-- 本项目未在`Visual C++`平台下验证，您可自行修改代码并使用`Visual Studio`编译运行。
+- 本项目未在`MSVC`平台下验证。
 - ***以下教程为`windows`平台部署教程，`Linux`及其它平台请自行安装`GNU`编译器套件。
 - 下载`mingw64-gcc-8.1.0`，
   可在[sourceforge](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z/download)中下载。
