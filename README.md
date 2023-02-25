@@ -40,17 +40,6 @@
 
 ### 使用GNU-g++
 
-#### 下载gnu编译器套件
-- **若您已部署`gcc`，`g++`（GNU编译器套件）或`windows`平台的`mingw-gcc`组件，可跳过本步骤**
-- 本项目未在`MSVC`平台下验证。
-- ***以下教程为`windows`平台部署教程，`Linux`及其它平台请自行安装`GNU`编译器套件。
-- 下载`mingw64-gcc-8.1.0`，
-  可在[sourceforge](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z/download)中下载。
-
-- 解压压缩包，并解压出的`mingw64`目录置于合适的目录下：如:`C:\`下。
-- 打开`windows`系统的环境变量设置，在系统变量中的`Path`变量中添加`C:\mingw64\bin`（对应上一步的目录名）。
-- 打开`cmd`命令行窗口，输入`g++`，查看是否部署成功。
--
 #### 编译并运行
 
 - 打开本项目目录，在本目录下打开`cmd`命令行窗口，输入以下命令来编译文件。
