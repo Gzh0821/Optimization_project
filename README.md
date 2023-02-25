@@ -40,9 +40,7 @@
 
 ### 使用GNU-g++
 
-#### 编译并运行
-
-- 打开本项目目录，在本目录下打开`cmd`命令行窗口，输入以下命令来编译文件。
+- 使用g++编译文件。
 ```
 g++ main.cpp Optimization.cpp -O3 -std=c++17 -o Test.exe
 ```
